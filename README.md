@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Major at Georgia Tech '24
 ----------------------------
 
-I started with an interest in AI, but through many experiences including internships, courses, and projects, I have also gained an interest in networks and backend development. I am currently also trying to get into web development frameworks such as React.
+I started with an interest in AI, but through many experiences including internships, courses, and projects, I have also gained an interest in networks and backend development. I have also worked with frontend frameworks like React.
 
 * 🖥️  See my portfolio at [Portfolio](http://portfolio.kangjustin.dev)
 * ✉️  You can contact me at [kangjustin392@gmail.com](mailto:kangjustin392@gmail.com)
