@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Kang
 ===================================================================================================================================
 
-CS Major at Georgia Tech '24
+CS Major at Georgia Tech '25
 ----------------------------
 
 I started with an interest in AI, but through many experiences including internships, courses, and projects, I have also gained an interest in networks and backend development. I have also worked with frontend frameworks like React.
